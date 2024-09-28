@@ -1,7 +1,7 @@
 
 # Shreyash Meshram - Curriculum Vitae
 
-This is a single-page CV created using HTML as part of the project outlined on [roadmap.sh](https://roadmap.sh/projects/single-page-cv).
+This is a single-page CV created using HTML as part of the project outlined on [roadmap.sh](https://roadmap.sh/projects/single-page-cv)[https://roadmap.sh/projects/single-page-cv].
 
 ## Instructions to Run the Project
 
